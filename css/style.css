@@ -86,10 +86,12 @@ form button{
     position: absolute;
     bottom: 12px;
     right: 17px;
-    font-size: 14px;
+    font-size: 11px;
     color: red;
 }
-
+.input-group span i {
+    color: seagreen;
+}
 #submit-error {
     color: red;
     
